@@ -1,0 +1,24 @@
+/**
+ * Created by abbeb on 10/4/15.
+ */
+public class hmwk {
+    public static void main(String[] args) {
+        /**
+         * 1. Print out your name and a random message using both System.out.print and System.out.println.
+         * System.out.print("Hello ");
+         * System.out.println("World!");
+         */
+
+        /**
+         * 2. Print some ascii art using print and println
+         */
+        System.out.print("Mark Abbe ");
+        System.out.println("I like spongebob");
+        System.out.println("^ ^");
+        System.out.println(" '");
+        System.out.println(" >");
+
+
+    }
+}
+
